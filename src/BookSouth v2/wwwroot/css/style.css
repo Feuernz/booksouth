@@ -1,0 +1,112 @@
+﻿#mapModal {
+    height: 70%;
+    width: 100%;
+    top:7%;
+    left: 20%;
+}
+.btn {
+   /*background-color:rgb(255, 0, 0);*/
+}
+h3 {
+    color:white;
+}
+p{
+    color:white;
+}
+
+.modal-body {
+    height: 90%;
+    overflow-y: auto;
+}
+
+.modal-backdrop {
+    opacity: 0.6;
+}
+
+.modal-content {
+    width: 75%;
+    height: 79%;
+    background-color:rgba(128, 128, 128, 0.5);
+}
+
+#mapModal2 {
+    height: 110%;
+    width: 25%;
+    top:7%;
+}
+
+
+
+#mapModal3 {
+    height: 34%;
+    width: 100%;
+    top: 65%;
+    left: 20%;
+    
+}
+path:hover {
+ /* cursor: url(''), default; **/
+    fill-opacity:1;
+    fill: rgba(115, 230, 0, 0.3) !important;
+}
+
+.col-xs-12 {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+#trip{
+    color:white;
+}
+body {
+    /*  background-color: grey; */
+    background-image: url('../images/bck.png');
+    background-repeat: repeat;
+}
+
+.navbar {
+    background: rgba(0,0,0,0.5);
+}
+
+circle {
+    visibility: hidden;
+
+}
+
+    circle:hover {
+        fill: rgb(59,85,125);
+        
+    }
+
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+#map-canvas {
+}
+
+.btn:hover {
+    color: white;
+    background-color: darkgrey;
+}
+
+#footerBanner {
+    padding-top: 0px;
+    height: 40px;
+}
+
+li {
+    margin: 0 0 10px 0;
+}
+
+ul {
+    float: left;
+}
+h2,h3{
+    color:white;
+}
+.whiteText{
+    color:white;
+}
